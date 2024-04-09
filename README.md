@@ -1,3 +1,5 @@
+![739d6f00-986f-11e9-88a3-3b3d1008ba6e](https://github.com/Mizutsuru/Background-color-changer/assets/166165566/fd07814b-9464-4501-a165-f96cf9e6c322)
+
 # Simple bash script to modify terminal color palette using pywal command.
 # How to use
 The first time it runs, the script installs all of the necessary packages.
